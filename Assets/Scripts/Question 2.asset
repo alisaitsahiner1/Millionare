@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04249d7fc3bc07945a30f47ea2470305, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
+  question: "Diego Maradona hangi ma\xE7ta \u201CTanr\u0131\u2019n\u0131n eli\u201D
+    diye adland\u0131r\u0131lan gol\xFC atm\u0131\u015Ft\u0131r?"
+  answers:
+  - "\u0130ngiltere"
+  - Almanya
+  - Brezilya
+  - Portekiz
+  correctAnswerIndex: 0

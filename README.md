@@ -1,6 +1,6 @@
 # 💰 Millionaire
 
-**Millionaire** is a fast-paced quiz game where players must answer a series of questions correctly under pressure. The goal is to find the correct answers before the countdown ends!
+**Millionaire** is a fast-paced quiz game where players must answer a series of questions correctly under pressure. The goal is to find the correct answers before the countdown ends!!
 
 ---
 
